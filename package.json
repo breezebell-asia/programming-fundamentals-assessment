@@ -1,0 +1,22 @@
+{
+  "name": "programming-fundamentals-assessment",
+  "version": "1.0.0",
+  "description": "Programming Fundamentals Assessment for Kazakhstan-US IT Training Program",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:single": "jest",
+    "test:all": "jest --verbose"
+  },
+  "dependencies": {
+    "jest": "^29.7.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.2",
+    "@babel/preset-env": "^7.23.2"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "private": true
+}
