@@ -1,1 +1,104 @@
-
+{
+  "tests": [
+    {
+      "name": "Test 1: Basic Syntax and Variables",
+      "setup": "npm install",
+      "run": "npx jest test-01-basic-syntax/test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "Test 2: Conditional Logic",
+      "setup": "",
+      "run": "npx jest test-02-conditional-logic/test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "Test 3: Array Manipulation",
+      "setup": "",
+      "run": "npx jest test-03-array-manipulation/test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "Test 4: Loop Implementation",
+      "setup": "",
+      "run": "npx jest test-04-loop-implementation/test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "Test 5: Problem-Solving",
+      "setup": "",
+      "run": "npx jest test-05-problem-solving/test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Test 6: Data Structure Implementation",
+      "setup": "",
+      "run": "npx jest test-06-data-structure/test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    },
+    {
+      "name": "Test 7: Function Parameters",
+      "setup": "",
+      "run": "npx jest test-07-function-parameters/test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "Test 8: String Manipulation",
+      "setup": "",
+      "run": "npx jest test-08-string-manipulation/test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "Test 9: Error Handling",
+      "setup": "",
+      "run": "npx jest test-09-error-handling/test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "Test 10: Array Methods",
+      "setup": "",
+      "run": "npx jest test-10-array-methods/test.js",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 5
+    }
+  ]
+}
